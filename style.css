@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(212, 144, 60);
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas{
+    background-color: white;
+    border-style: ridge;
+    border-width: 10px;
+    margin-top: 30px;
+}
+h1{
+    color: red;
+}
